@@ -1,0 +1,8 @@
+1) Enter the file C:\User\.....
+2) git init
+3) git remote add origin https://......
+4) git status
+5) git add .
+6) git commit -m "write somthing"
+7) git push origin master
+8) git status
